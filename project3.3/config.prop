@@ -1,0 +1,6 @@
+COORDINATOR_USE=ec2-54-173-28-33.compute-1.amazonaws.com
+COORDINATOR_USW=ec2-54-175-53-60.compute-1.amazonaws.com
+COORDINATOR_SING=ec2-52-23-151-203.compute-1.amazonaws.com
+DATACENTER_USE=ec2-52-23-179-136.compute-1.amazonaws.com
+DATACENTER_USW=ec2-52-91-222-146.compute-1.amazonaws.com
+DATACENTER_SING=ec2-54-172-176-137.compute-1.amazonaws.com
